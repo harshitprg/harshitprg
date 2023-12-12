@@ -46,12 +46,19 @@
 
 <div align="center">
 <h3>Badges</h3>
-  
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/html5-%2523E34F26?style=for-the-badge&logo=Html5&logoColor=%23FFA500&color=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/bootstrap-%25238511FA?style=for-the-badge&logo=Bootstrap&color=black)
 ![Static Badge](https://img.shields.io/badge/javascript-%2523323330?style=for-the-badge&logo=Javascript&color=black)
 ![Static Badge](https://img.shields.io/badge/git-%2523F05033?style=for-the-badge&logo=git&logoColor=%23FFA500&labelColor=black&color=black)
+![Static Badge](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=Node.JS&logoColor=black&color=%233fc70a)
+![Static Badge](https://img.shields.io/badge/NODEMON-%2523323330?style=for-the-badge&logo=Nodemon&logoColor=%233fc70a&color=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/NPM-%2523CB3837?style=for-the-badge&logo=npm&color=%23de0707)
+![Static Badge](https://img.shields.io/badge/express-%2523404d59?style=for-the-badge&logo=express&logoColor=%252361DAFB&labelColor=black&color=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   
