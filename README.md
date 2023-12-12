@@ -44,3 +44,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/harshitprg?style=for-the-badge&logo=GitHub&labelColor=%23000000)
 
 
+<div align="center">
+<h3>Badges</h3>
+  
+![Static Badge](https://img.shields.io/badge/html5-%2523E34F26?style=for-the-badge&logo=Html5&logoColor=%23FFA500&color=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/bootstrap-%25238511FA?style=for-the-badge&logo=Bootstrap&color=black)
+![Static Badge](https://img.shields.io/badge/javascript-%2523323330?style=for-the-badge&logo=Javascript&color=black)
+![Static Badge](https://img.shields.io/badge/git-%2523F05033?style=for-the-badge&logo=git&logoColor=%23FFA500&labelColor=black&color=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  
+</div>
