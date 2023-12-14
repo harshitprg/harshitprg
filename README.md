@@ -41,7 +41,10 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=harshitprg&" alt="harshitprg" /></p>
 </div>
 
+<div align="center">
+  
 ![GitHub followers](https://img.shields.io/github/followers/harshitprg?style=for-the-badge&logo=GitHub&labelColor=%23000000)
+</div>
 
 
 <div align="center">
