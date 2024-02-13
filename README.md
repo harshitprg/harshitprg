@@ -63,6 +63,6 @@
 ![Static Badge](https://img.shields.io/badge/NPM-%2523CB3837?style=for-the-badge&logo=npm&color=%23de0707)
 ![Static Badge](https://img.shields.io/badge/express-%2523404d59?style=for-the-badge&logo=express&logoColor=%252361DAFB&labelColor=black&color=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
   
 </div>
